@@ -10,7 +10,6 @@ COMO USAR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E86C1&height=170&section=header&text=Matheus%20Santana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20J%C3%BAnior&descAlignY=58&descSize=18" alt="Cabeçalho" />
 
-<img src="./assets/foto-perfil.png" width="150" alt="Foto de Matheus" style="border-radius:50%" />
 
 <br/>
 
